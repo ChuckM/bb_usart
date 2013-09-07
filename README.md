@@ -30,6 +30,6 @@ version of the firmware.
 
 [bb]: http://www.element14.com/community/community/knode/dev_platforms_kits/element14_dev_kits/stm32f4-discovery-expansion-boards
 
-[bdm]: http://www.blacksphere.co.nz/main/blackmagic
+[bmd]: http://www.blacksphere.co.nz/main/blackmagic
 
 [lib]: https://github.com/libopencm3/libopencm3-examples
